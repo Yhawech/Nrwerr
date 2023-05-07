@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Pizza
 Burger
 Panner
+=======
+Avengers
+Avatar
+GodFather
+>>>>>>> movies
